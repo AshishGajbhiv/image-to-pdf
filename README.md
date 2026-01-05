@@ -2,7 +2,7 @@
 
 Convert your images to a professional PDF document instantly, securely, and completely in your browser. No server uploads, no privacy concerns.
 
-![Image2PDF Banner](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=2564&ixlib=rb-4.0.3)
+
 
 ## 🚀 Live Demo
 
